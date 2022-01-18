@@ -19,7 +19,7 @@ function uhrback2() {
 }
 
 function uhr3() {
-  document.getElementById("uh3").style.width = "500px";
+  document.getElementById("uhr3").style.width = "500px";
   document.getElementById("uhr3").style.height = "500px";
 }
 function uhrback3() {
