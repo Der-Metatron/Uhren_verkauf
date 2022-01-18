@@ -1,0 +1,120 @@
+body {
+  background-color: black;
+}
+
+img {
+  width: 300px;
+  height: 200px;
+  border: 2px solid chocolate;
+  border-radius: 1rem;
+  margin: 5px;
+}
+
+.flex1 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.flex2 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.flex3 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.flex4 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.flex5 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.flex6 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.flex7 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.flex8 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.flex9 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.flex10 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  color: chocolate;
+  text-align: center;
+  font-family: "Akronim", cursive;
+  font-size: 5rem;
+}
+
+h2 {
+  color: chocolate;
+  text-align: center;
+  font-family: "Akronim", cursive;
+}
+
+header {
+  text-align: center;
+  color: chocolate;
+  text-shadow: rgb(218, 41, 17);
+}
+
+p {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: larger;
+  color: whitesmoke;
+  text-align: center;
+}
+
+a {
+  color: chocolate;
+  font-family: "Akronim", cursive;
+  font-size: 1rem;
+}
+
+.bildunten {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+footer {
+  text-align: center;
+  margin-bottom: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  color: aliceblue;
+}
