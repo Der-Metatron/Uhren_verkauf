@@ -89,3 +89,39 @@ function uhrback10() {
   document.getElementById("uhr10").style.width = "250px";
   document.getElementById("uhr10").style.height = "250px";
 }
+function kaufen1() {
+  alert("Falsch");
+}
+function kaufen1() {
+  alert("Falsch");
+}
+function kaufen1() {
+  alert("Falsch");
+}
+function kaufen2() {
+  alert("Falsch");
+}
+function kaufen3() {
+  alert("Falsch");
+}
+function kaufen4() {
+  alert("Falsch");
+}
+function kaufen5() {
+  alert("Falsch");
+}
+function kaufen6() {
+  alert("Falsch");
+}
+function kaufen7() {
+  alert("Falsch");
+}
+function kaufen8() {
+  alert("Falsch");
+}
+function kaufen9() {
+  alert("Falsch");
+}
+function kaufen10() {
+  alert("Falsch");
+}
